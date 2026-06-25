@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "alenammu202188@gmail.com",
+      "password": "$2a$10$dpO9YZHqou7FbYtRb3/aFuahLbRaZARf/zzy5oprJiG/5fUBTqiW.",
+      "name": "uuuigggkgk",
+      "role": "user",
+      "_id": "user_3h8bea69b"
+    }
+  ],
+  "donors": [],
+  "requests": [
+    {
+      "userId": "user_3h8bea69b",
+      "name": "dggd",
+      "age": "88",
+      "email": "alenammu202166@gmail.com",
+      "phone": "hjhjtj",
+      "bloodType": "O+",
+      "category": "Donor",
+      "ailments": "no",
+      "unitsRequired": "1",
+      "status": "Pending",
+      "_id": "req_8spthnuvr"
+    }
+  ]
+}
